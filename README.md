@@ -1,4 +1,4 @@
 # Ada
 
-# Saing settings
+# Saving settings
 * comando git push
